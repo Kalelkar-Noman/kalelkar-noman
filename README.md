@@ -1,6 +1,6 @@
 <p align="center">
 <!--   ![Logo](https://github.com/Kalelkar-Noman/kalelkar-noman/blob/main/logo.png) -->
-  <img src="https://github.com/Kalelkar-Noman/kalelkar-noman/blob/main/logo.png" alt="kalelkar-noman" /
+  <img src="https://github.com/Kalelkar-Noman/kalelkar-noman/blob/main/logo.webp" alt="kalelkar-noman" /
 </p>
 <h1 align="center">Hi 👋, I'm Kalelkar Noman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
