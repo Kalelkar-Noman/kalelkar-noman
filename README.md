@@ -7,11 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalelkar-noman&label=Profile%20views&color=0e75b6&style=flat" alt="kalelkar-noman" /> </p>
 
-- 🌱 I’m currently Working as **Frappe and MEAN Stack Developer **
+- 🌱 I’m currently Working as **Frappe and MEAN Stack Developer**
 
 - 📫 How to reach me **Kalelkarnoman014@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
