@@ -3,11 +3,11 @@
   <img src="https://github.com/Kalelkar-Noman/kalelkar-noman/blob/main/logo.webp" alt="kalelkar-noman" /
 </p>
 <h1 align="center">Hi 👋, I'm Kalelkar Noman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MEAN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalelkar-noman&label=Profile%20views&color=0e75b6&style=flat" alt="kalelkar-noman" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Developement**
+- 🌱 I’m currently Working as **Frappe and MEAN Stack Developer **
 
 - 📫 How to reach me **Kalelkarnoman014@gmail.com**
 
