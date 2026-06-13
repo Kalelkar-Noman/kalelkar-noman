@@ -2,11 +2,11 @@
   <img src="https://github.com/Kalelkar-Noman/kalelkar-noman/blob/main/logo.webp" alt="kalelkar-noman" />
 </p>
 <h1 align="center">Hi 👋, I'm Kalelkar Noman</h1>
-<h3 align="center">A passionate Software Engineer & ERPNext Developer from India</h3>
+<h3 align="center">A passionate Software Developer & ERPNext Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalelkar-noman&label=Profile%20views&color=0e75b6&style=flat" alt="kalelkar-noman" /> </p>
 
-- 🌱 I’m currently working as a **Software Engineer** at **Castlecraft**, building scalable solutions with **Frappe Framework**, **Angular**, and containerized **Docker** environments.
+- 🌱 I’m currently working as a **Software Engineer** at **Castlecraft**, building scalable solutions with **Frappe Framework**, **MEAN Stack**, and containerized **Docker** environments.
 
 - 🌍 Check out my portfolio: **[kalelkarnoman.netlify.app](https://kalelkarnoman.netlify.app)**
 
