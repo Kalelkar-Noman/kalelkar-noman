@@ -4,9 +4,10 @@
 <h1 align="center">Hi 👋, I'm Kalelkar Noman</h1>
 <h3 align="center">A passionate Software Developer & ERPNext Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalelkar-noman&label=Profile%20views&color=0e75b6&style=flat" alt="kalelkar-noman" /> </p>
+<!-- The combined tracker. It will add views from both GitHub and GitLab to the same total! -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalelkar-noman&label=Profile%20Views&color=0e75b6&style=flat" alt="kalelkar-noman" /> </p>
 
-- 🌱 I’m currently working as a **Software Engineer** at **Castlecraft**, building scalable solutions with **Frappe Framework**, **MEAN Stack**, and containerized **Docker** environments.
+- 🌱 I’m currently working as a **Software Developer** at **Castlecraft**, building scalable solutions with the **Frappe Framework**, **MEAN Stack**, and containerized **Docker** environments.
 
 - 🌍 Check out my portfolio: **[kalelkarnoman.netlify.app](https://kalelkarnoman.netlify.app)**
 
